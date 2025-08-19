@@ -1,0 +1,6 @@
+# This file lists the Python libraries required to run the Dog Breed Classifier Gradio app.
+torch==2.0.1
+torchvision==0.15.2
+gradio==4.29.0
+Pillow==10.3.0 # Added Pillow for image handling
+numpy==1.26.4 # Added numpy for unnormalization
