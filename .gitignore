@@ -1,0 +1,6 @@
+# Ignore model weights
+*.pth
+*.pt
+
+# Ignore dataset files
+data/
