@@ -2,7 +2,7 @@
 
 This project is a dog breed classifier built using PyTorch, which has been deployed as a Gradio web application on Hugging Face Spaces. The model is trained on a custom dataset to identify different dog breeds from images.
 
-![A user uploading an image to the Dog Breed Classifier web app](https://huggingface.co/spaces/Ashirwad12/Dog_Breed_Classifier/resolve/main/app_screenshot.png)
+![A user uploading an image to the Dog Breed Classifier web app](https://github.com/ashir1S/Dog-Breed-Classifier/blob/main/images/demo.png)
 
 ## About the Project
 
