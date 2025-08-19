@@ -42,7 +42,7 @@ If you wish to run this project locally, you will need to set up your environmen
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Ashirwad12/Dog-Breed-Classifier.git](https://github.com/Ashirwad12/Dog-Breed-Classifier.git)
+    git clone https://github.com/ashir1S/Dog-Breed-Classifier.git
     cd Dog-Breed-Classifier
     ```
 
