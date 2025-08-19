@@ -12,7 +12,7 @@ The core of this project is a machine learning model that takes an image of a do
 
 The model was trained on the "Dog Breeds Image Dataset" sourced from Kaggle. This dataset contains a wide variety of dog breed images, which were split into training and validation sets (80% for training, 20% for validation) to ensure the model's accuracy and prevent overfitting.
 
-* **Dataset Source:** `darshanthakare/dog-breeds-image-dataset` (Kaggle)
+* **Dataset Source:** `darshanthakare/Dog Breeds Image Dataset` ([Kaggle]([url](https://www.kaggle.com/datasets/darshanthakare/dog-breeds-image-dataset)))
 * **Number of Classes:** 157 dog breeds
 * **Training Samples:** 13,934 images
 * **Validation Samples:** 3,552 images
